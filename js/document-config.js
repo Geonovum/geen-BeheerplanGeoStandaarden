@@ -2,18 +2,18 @@ var documentConfig =
 {
   title: "Beheerplan geo-standaarden",
   subtitle: "Beheer van de basisset geo-standaarden",
-  shortName: "BeheerplanGeoStandaarden",
-  pubDomain: "geen",
+  shortName: "gsb",
+  pubDomain: "gbd",
   specStatus: "wv",
   specType: "bd",
   license: "cc-by",
   latestVersion: [
-    "https://docs.geostandaarden.nl/geen/BeheerplanGeoStandaarden/"
+    "https://docs.geostandaarden.nl/gbd/gsb/"
   ],
   publishDate: "2024-11-12",
   publishVersion: "2.0.0",
   thisVersion: [
-    "https://geonovum.github.io/geen-BeheerplanGeoStandaarden/"
+    "https://docs.geostandaarden.nl/gbd/gsb/"
   ],
   previousPublishDate: "2021-08-18",
   previousPublishVersion: "1.3.1",
@@ -21,14 +21,14 @@ var documentConfig =
     "https://docs.geostandaarden.nl/geen/def-bd-BeheerplanGeoStandaarden-20210818/"
   ],
   previousMaturity: "def",
-  github: "https://github.com/geonovum/geen-BeheerplanGeoStandaarden/",
-  issueBase: "https://github.com/geonovum/geen-BeheerplanGeoStandaarden/issues/",
-  edDraftURI: "https://geonovum.github.io/geen-BeheerplanGeoStandaarden/",
-  canonicalURI: "https://docs.geostandaarden.nl/geen/BeheerplanGeoStandaarden/",
+  github: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
+  issueBase: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
+  edDraftURI: "https://geonovum.github.io/Geo-standaarden-beheerplan//",
+  canonicalURI: "https://geonovum.github.io/Geo-standaarden-beheerplan//",
   authors: [
     {
-      name: "Standaardenteam geo-standaarden",
-      company: "Geonovun",
+      name: "Monique van Scherpenzeel",
+      company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     },
     {
@@ -42,6 +42,16 @@ var documentConfig =
       name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
-    }
+    },
+	{
+      name:       "Dick Krijtenburg",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    }, 
+	{
+	  name:       "Friso Penninga",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    } 
   ]
 }
